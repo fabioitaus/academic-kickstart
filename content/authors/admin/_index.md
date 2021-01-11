@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Fabio Luciani
+title: Fabio Luciani
 
 # Username (this should match the folder name)
 authors:
@@ -18,16 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: theoretical physicist
+bio: Theoretical physicist turned immunologist and bioinformatician
 
-interests:
+interests: []
 
 education:
   courses:
   - course: PhD in Theoretical Biology and Immunology 
     institution: Humboldt University Berlin
     year: 2006
-  - course: Masters in Theoretical physics
+  - course: Masters in Theoretical Physics
     institution: University of Bologna
     year: 2000
 
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:luciani@unsw.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FabioItAus
@@ -63,10 +63,6 @@ user_groups:
 - Researchers
 ---
 
-{{< figure library="true" src="Headshot_Fabio_3.jpg" title="Fabio" lightbox="true" >}}
-
-
-
 ## Goals of our lab
 
 Our lab is multi-disciplinary and combines immunology, bioinformatics, mathematics and statistics, and molecular biology for understanding how immune cells respond to pathogens and cancer. 
@@ -77,12 +73,12 @@ PhD Scholarships are available for international candidates. Summer Research Sch
 
 ### Diseases we are studying
 
-Our lab foucssed on T cell responses in the context of when these cells works well (Influenza and Dengue virus), when they are not supposed to r(espond but they do (Coeliac disease), and when they have been engineered to do what we want (CAR T cell therapies)
-It appears a very broad raneg of ineterst, but the reality is that we are simply trying to understand what are the mechanisms that control such a wide outcome for these very important cells of our immuen system!
+Our lab focused on T cell responses in the context of when these cells works well (Influenza and Dengue virus), when they are not supposed to respond but they do (Coeliac disease), and when they have been engineered to do what we want (CAR T cell therapies)
+It appears a very broad range of interest, but the reality is that we are simply trying to understand what are the mechanisms that control such a wide outcome for these very important cells of our immune system!
 
-### Tehcnologies we use to achieve these goals.
+### Technologies we use to achieve these goals.
 Single cell genomics
 
 Bioinformatics
 
-Expeirmental Immunology
+Experimental Immunology
