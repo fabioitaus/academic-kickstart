@@ -83,12 +83,13 @@ To achieve our goals, we utilize:
 We invite PhD and Postdocs to join us, engaging in both 'wet' (laboratory) and 'dry' (computational) projects. PhD Scholarships are available for international candidates, and Summer Research Scholarships for third-year undergraduates.
 
 #### Alumni
+- Simone Rizzetto, now Data Analyst at A-Star Insititute Singapore
 - Raymond Louie, now Lecturer at UNSW
 - David Koppstein, now Group leader at DKTK Heidelberg
 - Lies Boelen, now Senior  Data Analyst
 - Preston Leung, Senior postdoc in genomics at Prince of Wales hospital
 - Thiruni Adikari, now postdoc at Oxford
 - Curtis Cai, now postdoc at Karolinska Institutet
-
-
+- Chaturaka Rodrigo, now Senior Lecturer at UNSW
+- Neil Bretana, now Data Analyst at University of South Australia
 
