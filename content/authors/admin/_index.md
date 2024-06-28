@@ -69,7 +69,7 @@ Our vision is to develop a precise cure for autoimmune diseases and cancers, by 
 ### Research Focus
 
 Our lab investigates T cell responses across various contexts:
-- Autoimmune diseases: Coeliac disease), Type 1 diabetes 
+- Autoimmune diseases: Coeliac disease, Type 1 diabetes 
 - Immunotherapies: CAR T cell therapies, Immuno-checkpoint
 - Ageing
 
