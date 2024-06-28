@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Grad Students"
+- "Team Members"
 
 ---
 With a background in applied physics and bioinformatics, Martina is currently in her first PhD year working on a project that focuses on the application of machine learning and artificial intelligence techniques to single-cell RNA sequencing data of adaptive immune cells. 
