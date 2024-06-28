@@ -64,7 +64,7 @@ user_groups:
 ---
 
 Welcome to our multi-disciplinary lab, where we integrate immunology, bioinformatics, AI, and genomics to advance our understanding of autoimmune disorders and cancer. 
-Our vision is to develop a precise cure for autoimmune diseases and cancers, by integrating computational models, artificial intelligence and immunogenomics
+Our vision is to develop a precise cure for autoimmune diseases and cancers, by integrating computational models, artificial intelligence and immunogenomics.
 
 ### Research Focus
 
