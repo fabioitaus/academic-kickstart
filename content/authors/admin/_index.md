@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Team Leader
 ---
 
 Welcome to our multi-disciplinary lab, where we integrate immunology, bioinformatics, AI, and genomics to advance our understanding of autoimmune disorders and cancer. 
