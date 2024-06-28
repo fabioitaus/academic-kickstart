@@ -22,14 +22,14 @@ bio: Theoretical physicist turned immunologist and bioinformatician
 
 interests: []
 
-education:
-  courses:
-  - course: PhD in Theoretical Biology and Immunology 
-    institution: Humboldt University Berlin
-    year: 2006
-  - course: Masters in Theoretical Physics
-    institution: University of Bologna
-    year: 2000
+# education:
+#   courses:
+#   - course: PhD in Theoretical Biology and Immunology 
+#     institution: Humboldt University Berlin
+#     year: 2006
+#   - course: Masters in Theoretical Physics
+#     institution: University of Bologna
+#     year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,9 +59,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Team Leader
----
+# user_groups:
+# - Team Leader
+# ---
 
 Welcome to our multi-disciplinary lab, where we integrate immunology, bioinformatics, AI, and genomics to advance our understanding of autoimmune disorders and cancer. 
 Our vision is to develop a precise cure for autoimmune diseases and cancers, by integrating computational models, artificial intelligence and immunogenomics.
