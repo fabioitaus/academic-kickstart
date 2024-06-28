@@ -67,8 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Below is a list of all previous students who joined our lab:
-
 - Simone Rizzetto, now Data Analyst at A-Star Insititute Singapore
 - Raymond Louie, now Lecturer at UNSW
 - David Koppstein, now Group leader at DKTK Heidelberg
