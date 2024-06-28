@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Systems Immunology and Immunogenomics
+role: Professor of Systems Immunology, Immunogenomics and Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
 - name: University of New South Wales
-  url: ""
+  url: "https://research.unsw.edu.au/people/professor-fabio-luciani"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Theoretical physicist turned immunologist and bioinformatician
@@ -63,22 +63,24 @@ user_groups:
 - Researchers
 ---
 
-## Goals of our lab
+Welcome to our multi-disciplinary lab, where we integrate immunology, bioinformatics, AI, and genomics to advance our understanding of autoimmune disorders and cancer. 
+Our vision is to develop a precise cure for autoimmune diseases and cancers, by integrating computational models, artificial intelligence and immunogenomics
 
-Our lab is multi-disciplinary and combines immunology, bioinformatics, mathematics and statistics, and molecular biology for understanding how immune cells respond to pathogens and cancer. 
+### Research Focus
 
-PhD and Honours candidates are welcome to join us and work on either
-'wet' (laboratory) or 'dry' (computational) projects (or both). 
-PhD Scholarships are available for international candidates. Summer Research Scholarships are available for third year undergraduates.
+Our lab investigates T cell responses across various contexts:
+- Autoimmune diseases: Coeliac disease), Type 1 diabetes 
+- Immunotherapies: CAR T cell therapies, Immuno-checkpoint
+- Ageing
 
-### Diseases we are studying
+### Technologies
+To achieve our goals, we utilize:
+- Artificial intelligence to predict immune target 
+- Single-cell genomics
+- Bioinformatics
+- Experimental immunology
 
-Our lab focused on T cell responses in the context of when these cells works well (Influenza and Dengue virus), when they are not supposed to respond but they do (Coeliac disease), and when they have been engineered to do what we want (CAR T cell therapies)
-It appears a very broad range of interest, but the reality is that we are simply trying to understand what are the mechanisms that control such a wide outcome for these very important cells of our immune system!
+We invite PhD and Postdocs to join us, engaging in both 'wet' (laboratory) and 'dry' (computational) projects. PhD Scholarships are available for international candidates, and Summer Research Scholarships for third-year undergraduates.
 
-### Technologies we use to achieve these goals.
-Single cell genomics
 
-Bioinformatics
 
-Experimental Immunology
