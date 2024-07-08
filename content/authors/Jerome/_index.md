@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student Systems Immunology and Immunogenomics
+role: Post-Doc at Systems Immunology and Immunogenomics
 
 # Organizations/Affiliations
 organizations:
@@ -27,6 +27,9 @@ education:
   - course: Bachelor of Bioinformatics (Hons)
     institution: University of New South Wales
     year: 2017
+  - course: PhD (Bioinformatics)
+    institution: University of New South Wales
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,4 +64,4 @@ user_groups:
 
 ---
 
-Jerome is currently in his second year of a PhD working to apply machine learning and artificial intelligence techniques to single cell RNA sequencing data from adaptive immune cells specific to various diseases. Having studied Bioinformatics, he comes from a largely computational background, and worked under Associate Professor Fabio Luciani during his Honours and the following year as a research assistant, performing single cell data analysis and pipeline/application development. Jerome is now focusing on leveraging large T and B cell multi-omics datasets to explore antigen specificity and cross-reactivity, and predict phenotype and cellular function.
+Having completed his PhD entitled "The development of bioinformatics workflows to explore single-cell multi-omics data from T and B lymphocytes", Jerome is currently working as a Post-doc, performing single cell data analysis and pipeline/application developmen in the fields of auto-immunity and cancer. He is particularly interested in leveraging large T cell multi-omics datasets to explore and predict antigen-specificity and cross-reactivity.
