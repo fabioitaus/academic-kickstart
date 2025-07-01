@@ -24,11 +24,11 @@ interests: []
 
 education:
   courses:
-  - course: Bachelor of Physics
+  - course: Bachelor's Degree in Physics
     institution: University of Trento, Italy
     year: 2021
-  - course: Master of Applied Physics
-    institution: University of Bologna, Italy
+  - course: Master's Degree in Applied Physics
+    institution: University of Bologna, Italy & Paul Scherrer Institute, Zurich
     year: 2023
 
 # Social/Academic Networking
@@ -48,6 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/martibonomi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/martina-bonomi-422488259/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,5 +66,10 @@ user_groups:
 - "Team Members"
 
 ---
-With a background in applied physics and bioinformatics, Martina is currently in her first PhD year working on a project that focuses on the application of machine learning and artificial intelligence techniques to single-cell RNA sequencing data of adaptive immune cells. 
-Her research is specifically targeted at the role of T cells in the field of immunotherapies, particularly immuno-checkpoint blockade (ICB) and chimeric antigen receptor (CAR) T cells. Martina has a strong computational background and collaborated with Professor Fabio Luciani during her Master's degree, where she specialized in single-cell data analysis and pipeline/application development.
+Hi, I'm Martina.
+I have a Bachelor's and Master's degree in Physics, but my curiosity about the immune system led me to shift my focus to immunology. 
+During my PhD, I'm exploring the role of T cells in cancer immunotherapy, particularly in the context of immune checkpoint inhibitors (ICIs) and chimeric antigen receptor (CAR) T cell therapy.
+However, my main research project focuses on the structural properties of T cell receptors (TCRs) and how these relate to antigen-binding affinity. 
+To do this, I use artificial intelligence to uncover predictive rules that could guide the design of precision immunotherapies.
+
+
