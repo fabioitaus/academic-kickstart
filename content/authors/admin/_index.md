@@ -67,7 +67,6 @@ Welcome to our multi-disciplinary lab, where we integrate immunology, bioinforma
 Our vision is to develop a precise cure for autoimmune diseases and cancers, by integrating computational models, artificial intelligence and immunogenomics.
 
 ### Research Focus
-
 Our lab investigates T cell responses across various contexts:
 - Autoimmune diseases: Coeliac disease, Type 1 diabetes 
 - Immunotherapies: CAR T cell therapies, Immuno-checkpoint
