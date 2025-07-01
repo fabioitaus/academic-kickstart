@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, I'm Michael, I studied data science & decisions as my bachelor, and enrolled in computational biology as my honours. I am currently a PHD student, at school of biomedical science, at UNSW lucianilab, studying single cell immunology and drug development for various autoimmune disorders. Let's embrace the future where AI is combined with diverse medical studies and precision therapies.
-
+bio: 
 interests: []
 
 education:
@@ -66,5 +65,4 @@ user_groups:
 - "Team Members"
 
 ---
-With a background in applied physics and bioinformatics, Martina is currently in her first PhD year working on a project that focuses on the application of machine learning and artificial intelligence techniques to single-cell RNA sequencing data of adaptive immune cells. 
-Her research is specifically targeted at the role of T cells in the field of immunotherapies, particularly immuno-checkpoint blockade (ICB) and chimeric antigen receptor (CAR) T cells. Martina has a strong computational background and collaborated with Professor Fabio Luciani during her Master's degree, where she specialized in single-cell data analysis and pipeline/application development.
+Hi, I'm Michael, I studied data science & decisions as my bachelor, and enrolled in computational biology as my honours. I am currently a PHD student, at school of biomedical science, at UNSW lucianilab, studying single cell immunology and drug development for various autoimmune disorders. Let's embrace the future where AI is combined with diverse medical studies and precision therapies.
