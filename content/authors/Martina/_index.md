@@ -28,7 +28,7 @@ education:
     institution: University of Trento, Italy
     year: 2021
   - course: Master's Degree in Applied Physics
-    institution: University of Bologna, Italy & Paul Scherrer Institute, Zurich
+    institution: University of Bologna, Italy & Paul Scherrer Institute, Zurich, Switzerland
     year: 2023
 
 # Social/Academic Networking
@@ -70,6 +70,6 @@ Hi, I'm Martina.
 I have a Bachelor's and Master's degree in Physics, but my curiosity about the immune system led me to shift my focus to immunology. 
 During my PhD, I'm exploring the role of T cells in cancer immunotherapy, particularly in the context of immune checkpoint inhibitors (ICIs) and chimeric antigen receptor (CAR) T cell therapy.
 However, my main research project focuses on the structural properties of T cell receptors (TCRs) and how these relate to antigen-binding affinity. 
-To do this, I use artificial intelligence to uncover predictive rules that could guide the design of precision immunotherapies.
+To do this, I use AI to uncover predictive rules that could guide the design of precision immunotherapies.
 
 
