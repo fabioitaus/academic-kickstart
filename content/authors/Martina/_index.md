@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student Systems Immunology and Immunogenomics
+role: PhD student Systems Immunology, Immunogenomics and AI
 
 # Organizations/Affiliations
 organizations:
