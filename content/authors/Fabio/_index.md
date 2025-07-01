@@ -7,7 +7,7 @@ authors:
 - Fabio
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Professor of Systems Immunology, Immunogenomics and Artificial Intelligence
@@ -25,7 +25,7 @@ interests: []
 education:
   courses:
   - course: PhD in Theoretical Biology and Immunology 
-    institution: Humboldt University Berlin
+    institution: Humboldt University Berlin 
     year: 2006
   - course: Masters in Theoretical Physics
     institution: University of Bologna
