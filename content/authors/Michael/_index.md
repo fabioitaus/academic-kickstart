@@ -65,4 +65,6 @@ user_groups:
 - "Team Members"
 
 ---
-Hi, I'm Michael, I studied data science & decisions as my bachelor, and enrolled in computational biology as my honours. I am currently a PHD student, at school of biomedical science, at UNSW lucianilab, studying single cell immunology and drug development for various autoimmune disorders. Let's embrace the future where AI is combined with diverse medical studies and precision therapies.
+Hi, I'm Michael, I studied data science & decisions as my bachelor, and enrolled in computational biology as my honours. 
+I am currently a PhD student at the School of Biomedical Science at UNSW in LucianiLab, studying single cell immunology and drug development for various autoimmune disorders. 
+Let's embrace the future where AI is combined with diverse medical studies and precision therapies.
