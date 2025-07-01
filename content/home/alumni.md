@@ -66,7 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+- Jerome Samir, now Data Scientist at Mutinex
 - Simone Rizzetto, now Data Analyst at A-Star Insititute Singapore
 - Raymond Louie, now Lecturer at UNSW
 - David Koppstein, now Group leader at DKTK Heidelberg
