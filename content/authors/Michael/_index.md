@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Hi, I'm Michael, I studied data science & decisions as my bachelor, and enrolled in computational biology as my honours. I am currently a PHD student, at school of biomedical science, at UNSW lucianilab, studying single cell immunology and drug development for various autoimmune disorders. Let's embrace the future where AI is combined with diverse medical studies and precision therapies.
 
 interests: []
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
+  - course: Bachelor's Degree in Data Science
+    institution: University of New South Wales
+    year: 2023
+  - course: Honours Degree in Computational Biology
+    institution: University of New South Wales
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,6 +42,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/FabioItAus
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michael-li-yijie/ 
 # - icon: google-scholar
 #   icon_pack: ai
 # #   link: https://scholar.google.co.uk/citations?user=1FyN7LQAAAAJ&hl=en&oi=ao
