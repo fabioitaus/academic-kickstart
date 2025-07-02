@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Honours student Immunogenomics and AI
+role: Honours Student
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant in Systems Immunology
+role: Research Assistant 
 
 # Organizations/Affiliations
 organizations:
