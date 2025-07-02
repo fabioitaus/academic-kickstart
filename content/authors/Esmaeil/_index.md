@@ -66,5 +66,5 @@ user_groups:
 Hi, I'm Esmaeil and I am a PhD student in Systems Immunology, Immunogenomics, and AI at the University of New South Wales (UNSW). 
 With a strong computational background, I received a bachelor's degree in Computer Science and a master's degree in Bioinformatics. 
 During his master's degree, I worked on the RNA design problem and proposed a novel method for designing functional RNAs. 
-In 2018, I founded BioinfCamp, a bioinformatics startup aimed at addressing gaps he identified in the bioinformatics market. 
+In 2018, I founded BioinfCamp, a bioinformatics startup aimed at addressing gaps I identified in the bioinformatics market. 
 I am currently a member of LucianiLab and I'm using computational approaches to better understand autoimmune disorders and cancer.
