@@ -24,12 +24,12 @@ interests: []
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
+  - course: Bachelor's Degree in Computer Science
+    institution: University of Tabriz, Iran
+    year: 2017
+  - course: Master's Degree in Bioinformatics
+    institution: Tarbiat Modares University, Iran
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
