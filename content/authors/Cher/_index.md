@@ -63,5 +63,3 @@ user_groups:
 - "Team Members"
 
 ---
-With a background in applied physics and bioinformatics, Martina is currently in her first PhD year working on a project that focuses on the application of machine learning and artificial intelligence techniques to single-cell RNA sequencing data of adaptive immune cells. 
-Her research is specifically targeted at the role of T cells in the field of immunotherapies, particularly immuno-checkpoint blockade (ICB) and chimeric antigen receptor (CAR) T cells. Martina has a strong computational background and collaborated with Professor Fabio Luciani during her Master's degree, where she specialized in single-cell data analysis and pipeline/application development.

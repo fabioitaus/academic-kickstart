@@ -60,4 +60,3 @@ user_groups:
 - "Team Members"
 
 ---
-Arman is ...
