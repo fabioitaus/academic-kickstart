@@ -40,8 +40,8 @@ social:
   icon_pack: fas
   link: 'mailto: arman.safavi@student.unsw.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
-   icon_pack: fab
-   link: https://www.linkedin.com/in/arman-safavi-2756a2325/
+  icon_pack: fab
+  link: https://www.linkedin.com/in/arman-safavi-2756a2325/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=1FyN7LQAAAAJ&hl=en&oi=ao
