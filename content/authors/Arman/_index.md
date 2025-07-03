@@ -24,9 +24,12 @@ interests: []
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: Bachelor's Degree in Genetics
+    institution: Shahid Chamran University of Ahvaz, Iran
+    year: 2012
+  - course: Master's Degree in Biochemistry
+    institution: University of Isfahan, Iran
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,3 +63,10 @@ user_groups:
 - "Team Members"
 
 ---
+Hi, I’m Arman. I’m a PhD student in Immunogenomics. 
+With a background in molecular and cell biology, I transitioned from wet-lab work to computational research to better understand how T cells function in cancer immunotherapy. 
+My research focuses on single-cell multi-omics and whole-genome sequencing to explore how CAR T cells behave in patients with B-cell malignancies. 
+A central part of my work is investigating rare but serious outcomes, such as the development of CAR T-cell-induced lymphoma. 
+Using data from longitudinal patient samples, I integrate transcriptomic, genomic, and clonotype information to uncover the mechanisms that drive clinical outcomes or malignant transformation. 
+My broader interest lies in combining immunology with machine learning to improve the safety and effectiveness of next-generation cell therapies.
+
