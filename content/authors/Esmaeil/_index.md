@@ -39,15 +39,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:e.roohparvar@unsw.edu.au'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/FabioItAus
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=1FyN7LQAAAAJ&hl=en&oi=ao
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/martibonomi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/esmail-roohparvar-857344b1/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=kIQaUw8AAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Roohparvar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,5 +66,6 @@ user_groups:
 Hi, I'm Esmaeil and I am a PhD student in Systems Immunology, Immunogenomics, and AI at the University of New South Wales (UNSW). 
 With a strong computational background, I received a bachelor's degree in Computer Science and a master's degree in Bioinformatics. 
 During my master's degree, I worked on the RNA design problem and proposed a novel method for designing functional RNAs. 
-In 2018, I founded BioinfCamp, a bioinformatics startup aimed at addressing gaps I identified in the bioinformatics market. 
+In 2018, I founded BioinfCamp, a bioinformatics startup aimed at addressing gaps I identified in the bioinformatics market (bioinfcamp.com). 
 I am currently a member of LucianiLab and I'm using computational approaches to better understand autoimmune disorders and cancer.
+You can visit my personal website here: roohparvar.me
