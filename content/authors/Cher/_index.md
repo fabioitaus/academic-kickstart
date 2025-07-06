@@ -27,9 +27,6 @@ education:
   - course: Bachelor's Degree in Engineering (Honours) (Bioinformatics)
     institution: University of New South Wales, Sydney
     year: 2026
-  - course: 
-    institution: 
-    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
