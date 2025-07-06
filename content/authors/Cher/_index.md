@@ -24,9 +24,9 @@ interests: []
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: Bachelor's Degree in Engineering (Honours) (Bioinformatics)
+    institution: University of New South Wales, Sydney
+    year: 2026
   - course: 
     institution: 
     year: 
@@ -39,12 +39,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:c.olivo@student.unsw.edu.au'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/FabioItAus
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=1FyN7LQAAAAJ&hl=en&oi=ao
+- icon: github
+  icon_pack: fab
+  link: http://github.com/cherelynnolivo
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/cherelynnolivo/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/martibonomi
@@ -63,3 +63,8 @@ user_groups:
 - "Team Members"
 
 ---
+
+Hi, I'm Cherelynn I am an honours student studying Bioinformatics at UNSW. 
+With a Computer Science background and specialisation in Bioinformatics, my aim this year is to use AI to advance antibody engineering. 
+Specifically, I'm investigating the antibody hinge regions using computational approaches that leverage cutting-edge structural prediction tools. 
+Through data analysis and machine learning, I'm working to uncover how we can better engineer antibody therapies for celiac disease. 
